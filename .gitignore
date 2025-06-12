@@ -9,9 +9,9 @@ __pycache__/
 .env/
 venv/
 *.env
-
+git 
 # Data
-data/
+.csv/
 outputs/
 models/
 
